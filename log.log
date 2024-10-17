@@ -2,3 +2,4 @@
 2024-10-13 22:47:40  Success ->          all work finished │ "D:\\workspace\\workspace\\unison\\internal\\toolbox-1.99.0" //github.com/ddkwork/golibrary/stream.updateModsByWorkSpace+0x44f D:/workspace/workspace/branch/golibrary/stream/UpdateModsByWorkSpace.go:84
 2024-10-13 22:47:40  Success ->          all work finished │ "D:\\workspace\\workspace\\unison\\internal\\toolbox-1.99.0" //github.com/ddkwork/golibrary/stream.updateModsByWorkSpace+0x44f D:/workspace/workspace/branch/golibrary/stream/UpdateModsByWorkSpace.go:84
 
+2024-10-17 12:08:39  Success ->                updated mod │ "D:\\workspace\\workspace\\rep\\ghRep\\vstart" //github.com/ddkwork/golibrary/stream.updateModsByWorkSpace.func2+0x95 D:/workspace/workspace/branch/golibrary/stream/UpdateModsByWorkSpace.go:78
