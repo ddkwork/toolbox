@@ -4,6 +4,8 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/ddkwork/golibrary v0.0.0-20241017040650-bbbab1f8305d h1:29M3nkYFk/XgFF2UpjE73SpcZ6QbZwdWtSFB7qdBPlE=
 github.com/ddkwork/golibrary v0.0.0-20241017040650-bbbab1f8305d/go.mod h1:p8V5mLCgZMeDa7O9DakEAHHryCadsIzz5t2IvF7AoQE=
+github.com/ddkwork/golibrary v0.0.0-20241019071614-e59e1fc7ebc0 h1:8YEXRmdPNGyjvcAscmZZbSaZ3bj/krUbUY6EYVhzQuo=
+github.com/ddkwork/golibrary v0.0.0-20241019071614-e59e1fc7ebc0/go.mod h1:p8V5mLCgZMeDa7O9DakEAHHryCadsIzz5t2IvF7AoQE=
 github.com/jackpal/gateway v1.0.15 h1:yb4Gltgr8ApHWWnSyybnDL1vURbqw7ooo7IIL5VZSeg=
 github.com/jackpal/gateway v1.0.15/go.mod h1:dbyEDcDhHUh9EmjB9ung81elMUZfG0SoNc2TfTbcj4c=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
