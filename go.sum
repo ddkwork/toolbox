@@ -32,6 +32,8 @@ github.com/ddkwork/golibrary v0.0.0-20241101105340-067eea333e30 h1:nKDz8Lq3u5OL1
 github.com/ddkwork/golibrary v0.0.0-20241101105340-067eea333e30/go.mod h1:p8V5mLCgZMeDa7O9DakEAHHryCadsIzz5t2IvF7AoQE=
 github.com/ddkwork/golibrary v0.0.0-20241102061918-ccf0e4c81417 h1:t1RzgfSwXUiFWJfxiDj4u0vWMMokqgjA/cfhSP7Sufo=
 github.com/ddkwork/golibrary v0.0.0-20241102061918-ccf0e4c81417/go.mod h1:p8V5mLCgZMeDa7O9DakEAHHryCadsIzz5t2IvF7AoQE=
+github.com/ddkwork/golibrary v0.0.0-20241104012447-f2090de7a662 h1:DT0ffRXPHYictD18nnS3EPc/xhR6TLBl3nkDclRLdtc=
+github.com/ddkwork/golibrary v0.0.0-20241104012447-f2090de7a662/go.mod h1:p8V5mLCgZMeDa7O9DakEAHHryCadsIzz5t2IvF7AoQE=
 github.com/jackpal/gateway v1.0.15 h1:yb4Gltgr8ApHWWnSyybnDL1vURbqw7ooo7IIL5VZSeg=
 github.com/jackpal/gateway v1.0.15/go.mod h1:dbyEDcDhHUh9EmjB9ung81elMUZfG0SoNc2TfTbcj4c=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
