@@ -12,7 +12,7 @@ require (
 
 require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/ddkwork/golibrary v0.0.91-0.20250221042854-2f9e8bc45b92 // indirect
+	github.com/ddkwork/golibrary v0.0.91-0.20250221114559-8a02d569f328 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/rogpeppe/go-internal v1.12.0 // indirect
